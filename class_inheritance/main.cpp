@@ -3,8 +3,8 @@
 
 int main()
 {
-	CompleteElephant elephant;
-	elephant.setElephantsSpecifications();
-	elephant.getElephant();
-	return 0;
+    CompleteElephant elephant;
+    elephant.setElephantsSpecifications();
+    elephant.getElephant();
+    return 0;
 }
